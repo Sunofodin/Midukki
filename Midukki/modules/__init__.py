@@ -238,18 +238,18 @@ async def callback_ui(client, query):
         if query.from_user.id in Configs.ADMINS_ID:
             await query.message.edit(text=txt, reply_markup=btn)
         else:
-            await query.answer("Hey Bro or Sis 🙏 Your Not A Authorized User", show_alert=True)
+            await query.answer("Hey Your Not A Authorized User", show_alert=True)
 
 class vars(object):
     def start_buttons(Bot_Username):
         keyword = [[
-            button()("➕️ Add Me To Your Group ➕️", url=f"https://t.me/{Bot_Username}?startgroup=new")
+            button()("➕ 𝙰𝙳𝙳 𝙼𝙴 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ➕", url=f"https://t.me/{Bot_Username}?startgroup=new")
             ],[
-            button()("Support", url="https://t.me/+sv5flNs7yew1OTk1"),
-            button()("Updates",url="https://t.me/Mo_Tech_YT")
+            button()("𝚂𝚄𝙿𝙿𝙾𝚁𝚃", url="https://t.me/Lvx2_Presets"),
+            button()("𝚄𝙿𝙳𝙰𝚃𝙴𝚂",url="https://t.me/Lvx2_Presets")
             ],[
-            button()("Help", callback_data="maincb+help_cb"),
-            button()("About", callback_data="maincb+about_cb")
+            button()("𝙶𝚁𝙾𝚄𝙿", url="https://t.me/scene_pack"),
+            button()("𝙰𝙱𝙾𝚄𝚃", callback_data="maincb+about_cb")
             ]]
         return markup()(keyword)
 
