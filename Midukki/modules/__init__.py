@@ -245,7 +245,7 @@ class vars(object):
         keyword = [[
             button()("➕ 𝙰𝙳𝙳 𝙼𝙴 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ➕", url=f"https://t.me/{Bot_Username}?startgroup=new")
             ],[
-            button()("𝚂𝚄𝙿𝙿𝙾𝚁𝚃", url="https://t.me/Lvx2_Presets"),
+            button()("𝚂𝚄𝙿𝙿𝙾𝚁𝚃", url="https://t.me/+AYg3H9Nf7-M0YWZl"),
             button()("𝚄𝙿𝙳𝙰𝚃𝙴𝚂",url="https://t.me/Lvx2_Presets")
             ],[
             button()("𝙶𝚁𝙾𝚄𝙿", url="https://t.me/scene_pack"),
