@@ -20,7 +20,7 @@ I Can Guide You Through All Of <b>{bot}</b>'s Cool Features And How To Properly 
 """
 
 ABOUT_TXT = """
-➾ MY ADMIN : <b>[Arjun](https://t.me/+xbg3REXVh0w4YjE1)<b>
+➾ MY ADMIN : <b>[ARJUN](https://t.me/+xbg3REXVh0w4YjE1)<b>
 ➾ Developers : Muhammed
 ➾ Language : Python3
 ➾ Framework : Pyrogram
@@ -213,7 +213,7 @@ Check Your Spelling
 """
 
 IMDB_TEMPLATE_TXT = """
-Hey ser Your Requested {query} is ready 🙌 , Enjoy 
+Hey ser Your Requested {query} is ready 🙌
 """
 
 WELCOME_TXT = """
