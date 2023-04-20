@@ -1,6 +1,6 @@
 START_TXT = """
 Hey {mention} 😼
-Iam <b>{bot}> Advanced scene pack group management by <b>Escobar<b> Add me in your group as admin ✨
+Iam <b>{bot}<b> Advanced scene pack group management by <b>Escobar<b> Add me in your group as admin ✨
 
 """
 
@@ -20,7 +20,7 @@ I Can Guide You Through All Of <b>{bot}</b>'s Cool Features And How To Properly 
 """
 
 ABOUT_TXT = """
-➾ MY ADMIN : [Arjun](https://t.me/+xbg3REXVh0w4YjE1)
+➾ MY ADMIN : <b>[Arjun](https://t.me/+xbg3REXVh0w4YjE1)<b>
 ➾ Developers : Muhammed
 ➾ Language : Python3
 ➾ Framework : Pyrogram
