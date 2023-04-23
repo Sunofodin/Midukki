@@ -59,7 +59,7 @@ async def start_command(client: Midukki_RoboT, message: message()):
                     await message.reply(text="""𝚂𝙾𝚁𝚁𝚈 𝚂𝙸𝚁, 𝚈𝙾𝚄 𝙰𝚁𝙴 𝙱𝙰𝙽𝙽𝙴𝙳 𝚃𝙾 𝚄𝚂𝙴 𝙼𝙴""", disable_web_page_preview=True)                  
                     return
             except UserNotParticipant:
-                FORCES = ["https://telegra.ph/file/b2acb2586995d0e107760.jpg"]
+                FORCES = ["https://graph.org/file/bc3ac73d08383d7ee8f41.jpg"]
                 pr0fess0r_99 = [
                     [
                         button()
@@ -73,7 +73,7 @@ async def start_command(client: Midukki_RoboT, message: message()):
                 return await message.reply_photo(photo=choice(FORCES), caption=f"""Hello {message.from_user.mention}. \nYou Have <a href="{invite_link.invite_link}">Not Subscribed</a> 𝚃𝙾 <a href="{invite_link.invite_link}">my updates channel</a>.so you do not get the files on here""", reply_markup=pr0fess0r_99)                
             except FloodWait as x:
                 await asyncio.sleep(x.value)
-                FORCES = ["https://telegra.ph/file/b2acb2586995d0e107760.jpg"]
+                FORCES = ["https://graph.org/file/bc3ac73d08383d7ee8f41.jpg"]
                 pr0fess0r_99 = [
                     [
                         button()
