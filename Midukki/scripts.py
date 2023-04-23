@@ -213,7 +213,7 @@ Check Your Spelling
 """
 
 IMDB_TEMPLATE_TXT = """
-Hey ser Your Requested {query} is ready 🙌
+Hey Your Requested {query} is ready 🙌
 """
 
 WELCOME_TXT = """
